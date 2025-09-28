@@ -18,4 +18,8 @@
 - URL para clone: http://www.facebook.com
 
 - ###Resultados
-- ![](https://1drv.ms/i/c/787386ea5b197ad6/EY2gcBLTlSBBiN1BJ7AvRvoBLE3vgc0EMRXVewxg6Eo9tg?e=l0KVmj)
+- <p align="center">
+<img src="<img width="1495" height="843" alt="2025-09-28" src="https://github.com/user-attachments/assets/1e922ddd-ff13-42ec-acaa-f647abc77e50" />
+">
+
+</p>
